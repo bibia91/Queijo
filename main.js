@@ -55,4 +55,5 @@ function comecaCronometro(){
         
         return dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos ";
     }
+    
         comecaCronometro();
